@@ -1,6 +1,6 @@
 {
 	"version": "2021.1.2",
-	"description": "MS-DOS emulator running on Win32-x64 command prompt",
+	"description": "MS-DOS Player for Win32-x64",
 	"url": "http://takeda-toshiya.my.coocan.jp/msdos/msdos.zip",
 	"hash": "md5:3f4bef485834db868a27a4b615c348c0",
 	"bin": "msdos.exe",
