@@ -1,0 +1,9 @@
+{
+	"version": "2021.1.2",
+	"description": "MS-DOS emulator running on Win32-x64 command prompt",
+	"url": "http://takeda-toshiya.my.coocan.jp/msdos/msdos.zip",
+	"extract_dir": "msdos/binary/i86_x64",
+	"hash": "md5:b6c6bbd2f080ca450c22e5fad731a1ca",
+	"bin": "msdos.exe",
+	"homepage": "http://takeda-toshiya.my.coocan.jp/msdos/index.html"
+}
